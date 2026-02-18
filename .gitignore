@@ -1,1 +1,6 @@
 .DS_Store
+cagefs/
+error_log
+.ftpquota
+.htaccess
+scripts/muse-throttle-db.sqlite3

@@ -1,0 +1,359 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" ftp_hostname="ftp://107.180.44.148" ftp_rootfolder="/public_html" exportTarget="FTP" domain="mlindustrialair.com" resolutions="1x" timestamp="1568525518227">
+  <folder name="css">
+    <file name="site_global.css" crc="4108746693"/>
+    <file name="master_a-master.css" crc="525225859" ref="manufacturers:index:contact:vacuum-systems"/>
+    <file name="nomq_preview_master_a-master.css" crc="4256609339" ref="manufacturers:index:contact:vacuum-systems"/>
+    <file name="manufacturers.css" crc="4008997102" ref="manufacturers"/>
+    <file name="nomq_manufacturers.css" crc="4273626887" ref="manufacturers"/>
+    <file name="index.css" crc="3832675428" ref="index"/>
+    <file name="nomq_index.css" crc="4056510356" ref="index"/>
+    <file name="contact.css" crc="3931707941" ref="contact"/>
+    <file name="nomq_contact.css" crc="234172433" ref="contact"/>
+    <file name="vacuum-systems.css" crc="3836473795" ref="vacuum-systems"/>
+    <file name="nomq_vacuum-systems.css" crc="3950729043" ref="vacuum-systems"/>
+  </folder>
+  <folder name="fonts">
+    <file name="2ec3dd_0_0.woff" crc="102048501"/>
+    <file name="2ec3dd_0_0.eot" crc="4047580846"/>
+    <file name="2ec3dd_0_0.svg" crc="3941775177"/>
+    <file name="2ec3dd_0_0.woff" crc="102048501"/>
+    <file name="2ec3dd_0_0.eot" crc="4047580846"/>
+    <file name="2ec3dd_0_0.svg" crc="3941775177"/>
+    <file name="2ec3dd_0_0.woff" crc="102048501"/>
+    <file name="2ec3dd_0_0.eot" crc="4047580846"/>
+    <file name="2ec3dd_0_0.svg" crc="3941775177"/>
+    <file name="2ec3dd_0_0.woff" crc="102048501"/>
+    <file name="2ec3dd_0_0.eot" crc="4047580846"/>
+    <file name="2ec3dd_0_0.svg" crc="3941775177"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:manufacturers:contact:vacuum-systems"/>
+    <file name="museutils.js" crc="340535759" ref="index:manufacturers:contact:vacuum-systems"/>
+    <file name="whatinput.js" crc="86476730" ref="index:manufacturers:contact:vacuum-systems"/>
+    <file name="museconfig.js" crc="310584261" ref="index:manufacturers:contact:vacuum-systems"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:manufacturers:contact:vacuum-systems"/>
+    <file name="webpro.js" crc="4059564322" ref="index:manufacturers:contact:vacuum-systems"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index:manufacturers"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index:manufacturers"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index:manufacturers"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:vacuum-systems"/>
+    <file name="musewpdisclosure.js" crc="3883500470" ref="index:manufacturers:contact:vacuum-systems"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:manufacturers:contact:vacuum-systems"/>
+    <file name="require.js" crc="7928878" ref="index:manufacturers:contact:vacuum-systems"/>
+    <file name="form_check.php" crc="4020933626" ref="contact"/>
+    <file name="form_throttle.php" crc="4259590256" ref="contact"/>
+    <file name="form_process.php" crc="37464564" ref="contact"/>
+    <file name="form-u1521.php" crc="465437113" ref="contact"/>
+    <file name="form-u19968.php" crc="234939673" ref="vacuum-systems"/>
+  </folder>
+  <folder name="images">
+    <file name="header image 5.jpg" crc="249492116" seo="true" ref="index:manufacturers">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="manufacturers" alt=""/>
+      <caption webpage="manufacturers" alt=""/>
+      <caption webpage="manufacturers" alt=""/>
+      <caption webpage="manufacturers" alt=""/>
+      <caption webpage="manufacturers" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:manufacturers:contact:vacuum-systems"/>
+    <file name="header image 6.jpg" crc="4247292693" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="header image 1.jpg" crc="4250508426" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="header image 2.jpg" crc="489647310" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="header image 3.jpg" crc="3901671244" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="header image 4.jpg" crc="306128994" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="header image 7.jpg" crc="153623815" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="header image 8.jpg" crc="4293982905" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="header image 9.jpg" crc="4096336684" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index:manufacturers"/>
+    <file name="ml logo green-01.svg" crc="291778918" ref="index"/>
+    <file name="ml logo green-01_poster_u5475.png" crc="181227053" ref="index"/>
+    <file name="nyb.jpg" crc="256960416" seo="true" ref="index:manufacturers:contact:vacuum-systems">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="manufacturers" alt=""/>
+      <caption webpage="manufacturers" alt=""/>
+      <caption webpage="manufacturers" alt=""/>
+      <caption webpage="manufacturers" alt=""/>
+      <caption webpage="manufacturers" alt=""/>
+      <caption webpage="manufacturers" alt=""/>
+      <caption webpage="manufacturers" alt=""/>
+      <caption webpage="manufacturers" alt=""/>
+      <caption webpage="manufacturers" alt=""/>
+      <caption webpage="manufacturers" alt=""/>
+      <caption webpage="vacuum-systems" alt=""/>
+      <caption webpage="vacuum-systems" alt=""/>
+      <caption webpage="vacuum-systems" alt=""/>
+      <caption webpage="vacuum-systems" alt=""/>
+      <caption webpage="vacuum-systems" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="5366751.jpg" crc="13441731" seo="true" ref="index:manufacturers:contact:vacuum-systems">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="manufacturers" alt=""/>
+      <caption webpage="manufacturers" alt=""/>
+      <caption webpage="manufacturers" alt=""/>
+      <caption webpage="manufacturers" alt=""/>
+      <caption webpage="manufacturers" alt=""/>
+      <caption webpage="manufacturers" alt=""/>
+      <caption webpage="manufacturers" alt=""/>
+      <caption webpage="manufacturers" alt=""/>
+      <caption webpage="manufacturers" alt=""/>
+      <caption webpage="manufacturers" alt=""/>
+      <caption webpage="vacuum-systems" alt=""/>
+      <caption webpage="vacuum-systems" alt=""/>
+      <caption webpage="vacuum-systems" alt=""/>
+      <caption webpage="vacuum-systems" alt=""/>
+      <caption webpage="vacuum-systems" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="1405723962.png" crc="411469709" seo="true" ref="index:manufacturers:contact:vacuum-systems">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="manufacturers" alt=""/>
+      <caption webpage="manufacturers" alt=""/>
+      <caption webpage="manufacturers" alt=""/>
+      <caption webpage="manufacturers" alt=""/>
+      <caption webpage="manufacturers" alt=""/>
+      <caption webpage="manufacturers" alt=""/>
+      <caption webpage="manufacturers" alt=""/>
+      <caption webpage="manufacturers" alt=""/>
+      <caption webpage="manufacturers" alt=""/>
+      <caption webpage="manufacturers" alt=""/>
+      <caption webpage="vacuum-systems" alt=""/>
+      <caption webpage="vacuum-systems" alt=""/>
+      <caption webpage="vacuum-systems" alt=""/>
+      <caption webpage="vacuum-systems" alt=""/>
+      <caption webpage="vacuum-systems" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="ecs_logo_blueonwhite.jpg" crc="18939436" seo="true" ref="index:manufacturers:contact:vacuum-systems">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="manufacturers" alt=""/>
+      <caption webpage="manufacturers" alt=""/>
+      <caption webpage="manufacturers" alt=""/>
+      <caption webpage="manufacturers" alt=""/>
+      <caption webpage="manufacturers" alt=""/>
+      <caption webpage="manufacturers" alt=""/>
+      <caption webpage="manufacturers" alt=""/>
+      <caption webpage="manufacturers" alt=""/>
+      <caption webpage="manufacturers" alt=""/>
+      <caption webpage="manufacturers" alt=""/>
+      <caption webpage="vacuum-systems" alt=""/>
+      <caption webpage="vacuum-systems" alt=""/>
+      <caption webpage="vacuum-systems" alt=""/>
+      <caption webpage="vacuum-systems" alt=""/>
+      <caption webpage="vacuum-systems" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="radiobuttonunchecked.png" crc="3976871150" ref="vacuum-systems">
+      <caption webpage="vacuum-systems" alt=""/>
+    </file>
+    <file name="radiobuttonuncheckedrollover.png" crc="4276313674" ref="vacuum-systems">
+      <caption webpage="vacuum-systems" alt=""/>
+    </file>
+    <file name="radiobuttonuncheckedmousedown.png" crc="54863585" ref="vacuum-systems">
+      <caption webpage="vacuum-systems" alt=""/>
+    </file>
+    <file name="radiobuttonchecked.png" crc="4193302265" ref="vacuum-systems">
+      <caption webpage="vacuum-systems" alt=""/>
+    </file>
+    <file name="radiobuttoncheckedrollover.png" crc="88928956" ref="vacuum-systems">
+      <caption webpage="vacuum-systems" alt=""/>
+    </file>
+    <file name="radiobuttoncheckedmousedown.png" crc="4280357799" ref="vacuum-systems">
+      <caption webpage="vacuum-systems" alt=""/>
+    </file>
+    <file name="checkboxunchecked.jpg" crc="495023700" ref="vacuum-systems">
+      <caption webpage="vacuum-systems" alt=""/>
+    </file>
+    <file name="checkboxuncheckedrollover.jpg" crc="4076496830" ref="vacuum-systems">
+      <caption webpage="vacuum-systems" alt=""/>
+    </file>
+    <file name="checkboxuncheckedmousedown.jpg" crc="361678653" ref="vacuum-systems">
+      <caption webpage="vacuum-systems" alt=""/>
+    </file>
+    <file name="checkboxchecked.jpg" crc="477278992" ref="vacuum-systems">
+      <caption webpage="vacuum-systems" alt=""/>
+    </file>
+    <file name="checkboxcheckedrollover.jpg" crc="435737969" ref="vacuum-systems">
+      <caption webpage="vacuum-systems" alt=""/>
+    </file>
+    <file name="checkboxcheckedmousedown.jpg" crc="4004261994" ref="vacuum-systems">
+      <caption webpage="vacuum-systems" alt=""/>
+    </file>
+    <file name="fan 1-crop-u25838.jpg" crc="353605076" seo="true" ref="vacuum-systems">
+      <caption webpage="vacuum-systems" alt=""/>
+    </file>
+    <file name="hose and tool-crop-u25845.jpg" crc="125528390" seo="true" ref="vacuum-systems">
+      <caption webpage="vacuum-systems" alt=""/>
+    </file>
+    <file name="fan 3-crop-u25867.jpg" crc="96011227" seo="true" ref="vacuum-systems">
+      <caption webpage="vacuum-systems" alt=""/>
+    </file>
+    <file name="fan 1-crop-u258382.jpg" crc="100752906" seo="true" ref="vacuum-systems">
+      <caption webpage="vacuum-systems" alt=""/>
+    </file>
+    <file name="hose and tool-crop-u258452.jpg" crc="226046662" seo="true" ref="vacuum-systems">
+      <caption webpage="vacuum-systems" alt=""/>
+    </file>
+    <file name="fan 3-crop-u258672.jpg" crc="3881263951" seo="true" ref="vacuum-systems">
+      <caption webpage="vacuum-systems" alt=""/>
+    </file>
+    <file name="fan 1-crop-u258383.jpg" crc="4012746316" seo="true" ref="vacuum-systems">
+      <caption webpage="vacuum-systems" alt=""/>
+    </file>
+    <file name="hose and tool-crop-u258453.jpg" crc="207355087" seo="true" ref="vacuum-systems">
+      <caption webpage="vacuum-systems" alt=""/>
+    </file>
+    <file name="fan 3-crop-u258673.jpg" crc="3773769282" seo="true" ref="vacuum-systems">
+      <caption webpage="vacuum-systems" alt=""/>
+    </file>
+    <file name="fan 1-crop-u258384.jpg" crc="4258244842" seo="true" ref="vacuum-systems">
+      <caption webpage="vacuum-systems" alt=""/>
+    </file>
+    <file name="hose and tool-crop-u258454.jpg" crc="3898261245" seo="true" ref="vacuum-systems">
+      <caption webpage="vacuum-systems" alt=""/>
+    </file>
+    <file name="fan 3.jpg" crc="272427337" seo="true" ref="vacuum-systems">
+      <caption webpage="vacuum-systems" alt=""/>
+      <caption webpage="vacuum-systems" alt=""/>
+    </file>
+    <file name="fan 1-crop-u258385.jpg" crc="62296470" seo="true" ref="vacuum-systems">
+      <caption webpage="vacuum-systems" alt=""/>
+    </file>
+    <file name="hose and tool-crop-u258455.jpg" crc="321168321" seo="true" ref="vacuum-systems">
+      <caption webpage="vacuum-systems" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3809689540" seo="true" mt="1568081786532" redirect="true"/>
+  <file name="manufacturers.html" crc="4134269937" seo="true" mt="1568081786532" redirect="true"/>
+  <file name="contact.html" crc="306147165" seo="true" mt="1568081971032" redirect="true"/>
+  <file name="vacuum-systems.html" crc="398752375" seo="true" mt="1568081786532" redirect="true"/>
+  <site>
+    <paragraphStyle className="normal_text" uid="U49"/>
+    <nestedListStyle className="nls-None" uid="U52"/>
+  </site>
+  <renditions>
+    <rendition device="desktop">
+      <page name="Home" filename="index.html" muse_href="page:U93" master="U72">
+        <breakpoint uid="U263" maxwidth="320" minwidth="0" squishy="true"/>
+        <breakpoint uid="U9709" maxwidth="414" minwidth="321" squishy="true"/>
+        <breakpoint uid="U9766" maxwidth="736" minwidth="415" squishy="true"/>
+        <breakpoint uid="U12591" maxwidth="768" minwidth="737" squishy="true"/>
+        <breakpoint uid="U83" maxwidth="960" minwidth="769" squishy="true"/>
+      </page>
+      <masterPage name="A-Master" master="U62" uid="U72">
+        <breakpoint uid="U1262" maxwidth="320" minwidth="0" squishy="true"/>
+        <breakpoint uid="U9018" maxwidth="414" minwidth="321" squishy="true"/>
+        <breakpoint uid="U8065" maxwidth="736" minwidth="415" squishy="true"/>
+        <breakpoint uid="U73" maxwidth="960" minwidth="737" squishy="true"/>
+      </masterPage>
+      <masterPage name="None" master="null" uid="U62">
+        <breakpoint uid="U63" maxwidth="960" minwidth="0" squishy="true"/>
+      </masterPage>
+      <page name="Manufacturers" filename="manufacturers.html" muse_href="page:U1300" master="U72">
+        <breakpoint uid="U7098" maxwidth="320" minwidth="0" squishy="true"/>
+        <breakpoint uid="U10751" maxwidth="414" minwidth="321" squishy="true"/>
+        <breakpoint uid="U10487" maxwidth="736" minwidth="415" squishy="true"/>
+        <breakpoint uid="U11278" maxwidth="768" minwidth="737" squishy="true"/>
+        <breakpoint uid="U1278" maxwidth="960" minwidth="769" squishy="true"/>
+      </page>
+      <page name="Contact" filename="contact.html" muse_href="page:U1348" master="U72">
+        <breakpoint uid="U4002" maxwidth="320" minwidth="0" squishy="true"/>
+        <breakpoint uid="U10894" maxwidth="414" minwidth="321" squishy="true"/>
+        <breakpoint uid="U10806" maxwidth="736" minwidth="415" squishy="true"/>
+        <breakpoint uid="U10992" maxwidth="768" minwidth="737" squishy="true"/>
+        <breakpoint uid="U1326" maxwidth="960" minwidth="769" squishy="true"/>
+      </page>
+      <page name="Vacuum Systems" filename="vacuum-systems.html" muse_href="page:U20222" master="U72">
+        <breakpoint uid="U19998" maxwidth="320" minwidth="0" squishy="true"/>
+        <breakpoint uid="U19911" maxwidth="414" minwidth="321" squishy="true"/>
+        <breakpoint uid="U20170" maxwidth="736" minwidth="415" squishy="true"/>
+        <breakpoint uid="U20104" maxwidth="768" minwidth="737" squishy="true"/>
+        <breakpoint uid="U20052" maxwidth="960" minwidth="769" squishy="true"/>
+      </page>
+    </rendition>
+  </renditions>
+</manifest>
