@@ -1,0 +1,29 @@
+.vacuum-intro {
+  max-width: 720px;
+  margin-bottom: var(--space-2xl);
+}
+
+.vacuum-form .form__fieldset + .form__fieldset {
+  margin-top: var(--space-lg);
+}
+
+.vacuum-products {
+  display: flex;
+  justify-content: center;
+  gap: var(--space-xl);
+  margin-bottom: var(--space-3xl);
+  flex-wrap: wrap;
+}
+
+.vacuum-products img {
+  border-radius: var(--border-radius-lg);
+  box-shadow: var(--shadow-sm);
+  max-width: 200px;
+  height: auto;
+}
+
+@media (max-width: 767px) {
+  .vacuum-products img {
+    max-width: 140px;
+  }
+}
