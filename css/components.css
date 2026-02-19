@@ -213,14 +213,9 @@ body.nav-open {
   color: var(--color-accent);
   font-family: var(--font-heading);
   font-weight: 600;
-  font-size: var(--font-size-2xl);
+  font-size: var(--font-size-3xl);
   text-shadow: 0 1px 4px rgba(0, 0, 0, 0.4);
-}
-
-@media (min-width: 768px) {
-  .hero__subtitle {
-    font-size: var(--font-size-3xl);
-  }
+  margin-bottom: var(--space-sm);
 }
 
 .hero__dots {
@@ -253,8 +248,12 @@ body.nav-open {
     height: 60vh;
   }
 
+  .hero__subtitle {
+    font-size: 3.5rem;
+  }
+
   .hero__title {
-    font-size: var(--font-size-2xl);
+    font-size: var(--font-size-lg);
   }
 }
 
@@ -264,8 +263,12 @@ body.nav-open {
     max-height: 700px;
   }
 
+  .hero__subtitle {
+    font-size: 4.5rem;
+  }
+
   .hero__title {
-    font-size: var(--font-size-3xl);
+    font-size: var(--font-size-xl);
   }
 }
 
