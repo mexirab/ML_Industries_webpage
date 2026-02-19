@@ -6,6 +6,8 @@
   max-width: 720px;
   margin: 0 auto;
   text-align: center;
+  font-family: 'Aptos', 'Calibri', sans-serif;
+  font-weight: 700;
   font-size: var(--font-size-lg);
   line-height: 1.8;
   color: var(--color-text);
