@@ -213,8 +213,14 @@ body.nav-open {
   color: var(--color-accent);
   font-family: var(--font-heading);
   font-weight: 600;
-  font-size: var(--font-size-lg);
+  font-size: var(--font-size-2xl);
   text-shadow: 0 1px 4px rgba(0, 0, 0, 0.4);
+}
+
+@media (min-width: 768px) {
+  .hero__subtitle {
+    font-size: var(--font-size-3xl);
+  }
 }
 
 .hero__dots {
