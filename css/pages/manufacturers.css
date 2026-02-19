@@ -1,0 +1,11 @@
+.manufacturers-list {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-2xl);
+}
+
+.manufacturer-divider {
+  border: none;
+  border-top: 1px solid var(--color-border);
+  margin: 0;
+}
