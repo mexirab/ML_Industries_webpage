@@ -25,8 +25,8 @@
       <nav class="main-nav" id="main-nav" aria-label="Main navigation">
         <ul class="main-nav__list">
           <li><a href="index.html" class="main-nav__link">Home</a></li>
-          <li><a href="vacuum-systems.html" class="main-nav__link">Vacuum Systems</a></li>
           <li><a href="manufacturers.html" class="main-nav__link">Manufacturers</a></li>
+          <li><a href="vacuum-systems.html" class="main-nav__link">Vacuum Systems</a></li>
           <li><a href="contact.html" class="main-nav__link">Contact</a></li>
         </ul>
       </nav>
