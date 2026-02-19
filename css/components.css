@@ -203,7 +203,7 @@ body.nav-open {
 
 .hero__title {
   color: var(--color-text-white);
-  font-size: var(--font-size-xl);
+  font-size: var(--font-size-base);
   text-shadow: 0 2px 8px rgba(0, 0, 0, 0.5);
   max-width: 700px;
   margin-bottom: var(--space-sm);
@@ -253,7 +253,7 @@ body.nav-open {
   }
 
   .hero__title {
-    font-size: var(--font-size-lg);
+    font-size: var(--font-size-base);
   }
 }
 
@@ -268,7 +268,7 @@ body.nav-open {
   }
 
   .hero__title {
-    font-size: var(--font-size-xl);
+    font-size: var(--font-size-lg);
   }
 }
 
